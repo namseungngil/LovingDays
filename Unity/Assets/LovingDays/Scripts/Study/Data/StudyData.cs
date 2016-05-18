@@ -2,9 +2,21 @@
 using System.Collections;
 using Hellgate;
 
-[Excel("study", "study")]
 public class StudyData
 {
     private int idx;
-    private int name;
+    private string sheet = "";
+    private string name = "";
+
+    public string Sheet {
+        get {
+            return sheet;
+        }
+    }
+
+    public string Name {
+        get {
+            return name;
+        }
+    }
 }

@@ -247,7 +247,7 @@ namespace Hellgate
         public virtual void LoadMainMenu (SceneCallbackDelegate active = null, SceneCallbackDelegate deactive = null)
         {
             if (menuSceneName == "") {
-                HDebug.LogWarning ("The default menu scene is not set");
+//                HDebug.LogWarning ("The default menu scene is not set");
                 return;
             }
 

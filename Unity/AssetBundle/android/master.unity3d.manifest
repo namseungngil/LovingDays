@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2568583532
+CRC: 1826557743
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d4a5ce6d86a3157f5c652ed613517a5f
+    Hash: 1af495346c58b712cba9b5e4aa99de52
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
@@ -12,5 +12,10 @@ ClassTypes:
 - Class: 49
   Script: {instanceID: 0}
 Assets:
+- Assets/LovingDays/_Resource/Master/voice_restaurant.json
+- Assets/LovingDays/_Resource/Master/study_market.json
+- Assets/LovingDays/_Resource/Master/study_station.json
+- Assets/LovingDays/_Resource/Master/study_restaurant.json
+- Assets/LovingDays/_Resource/Master/test_restraurant.json
 - Assets/LovingDays/_Resource/Master/study.json
 Dependencies: []
